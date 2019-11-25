@@ -10,7 +10,7 @@ print("Server Side Socket successfully created")
 port = 12347                
  
 s.bind(('', port))         
-print("Socket is binded to" +(port))
+print("Socket is binded to" +port)
   
 s.listen(5)      
 print("Socket is listening")          

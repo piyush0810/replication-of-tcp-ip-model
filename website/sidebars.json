@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "About TCP-IP": ["doc1","doc2"],
+    "Using": ["doc2"],
+    "Second Category": ["doc3"]
+  },
+  "docs-other": {
+    "Using the following": ["doc4", "doc5"]
+  }
+}
